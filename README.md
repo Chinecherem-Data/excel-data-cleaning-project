@@ -1,4 +1,6 @@
 # Retail Sales Data Analysis - Excel Project
+🔗 **LIVE PROJECT (Click to view my Google Sheet):** https://docs.google.com/spreadsheets/d/1BJR7kKgqUHEgq7T9_PQkcJMq4W9yCLNK/edit?usp=drivesdk&ouid=114703554724037860947&rtpof=true&sd=true
+
 
 ## 📊 Project Overview
 Analyzed 1,000+ retail sales transactions to uncover sales trends, customer demographics, and product performance using Microsoft Excel.
